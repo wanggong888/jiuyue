@@ -1,0 +1,19 @@
+{
+    "title":"Meekdai",
+    "displayTitle":"eekdai",
+    "subTitle":"童话是一种生活态度，仅此而已。",
+    "homeUrl":"http://dd.xiaomai.icu",
+    "avatarUrl":"http://dd.xiaomai.icu/avatar.jpg",
+    "faviconUrl":"http://dd.xiaomai.icu/favicon.ico",
+    "singlePage":["link","about"],
+    "GMEEK_VERSION":"v2.4"
+    "email":"meekdai@163.com",
+"startSite":"02/16/2015",
+"filingNum":"浙ICP备20023628号",
+"onePageListNum":15,
+"commentLabelColor":"#006b75",
+"yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+"i18n":"CN",
+"dayTheme":"light",
+"nightTheme":"dark_colorblind",
+}
